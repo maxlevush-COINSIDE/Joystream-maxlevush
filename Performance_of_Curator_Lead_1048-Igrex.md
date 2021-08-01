@@ -67,4 +67,15 @@ Content Curator Lead `1048-Igrex`
 
 Curator Lead
 
+1. During his term `Igrex` hire and fire workers, was active on Discord, changed workers reward, changed featured videos
+2. Replenished Content Working Group Mint
+3. Had big delays in bounty 18
+4. Assigned BM for Bounty 10 and 16
 
+Curator Workers
+
+1. Checked all upload videos and create a [sheet](https://docs.google.com/spreadsheets/d/1LMYztVNw6za31H5OZBA8zX8OEv09fqDSUnkRYYacDYU/edit#gid=0)
+2. Found all [duplicates](https://docs.google.com/spreadsheets/d/1LMYztVNw6za31H5OZBA8zX8OEv09fqDSUnkRYYacDYU/edit#gid=2048884930)
+3. Warn videos in forum [thread](https://testnet.joystream.org/#/forum/threads/329)
+4. Censored 8 videos
+5. Video licenses were not checked, which led to the closure of Bounty 10
