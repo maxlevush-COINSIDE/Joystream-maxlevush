@@ -55,7 +55,7 @@ Storage Lead `4-Nexusfallout`
 
 ### Performance for the Workers
 
-*Referring to the reports, it is impossible to understand how effective the Providers are.*
+*Referring to the reports, it is impossible to understand how effective the Providers are. We still don't have tools for it. But our Stellar line-up ``@tomato``, ``@nexusfallout``, ``@freakstatic`` and ``@l1dev`` are trying to find the way every day*
 
 - `joystreamstats` 
 
