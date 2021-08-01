@@ -84,7 +84,7 @@ Content Curator WG usually just watch the uploaded videos. If the video does not
 
 ### Performance for the Lead
 
-???
+At least 70% of the work he did
 
 ### Performance for the Workers
 
