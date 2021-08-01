@@ -69,8 +69,8 @@ Curator Lead
 
 1. During his term `Igrex` hire and fire workers, was active on Discord, changed workers reward, changed featured videos
 2. Replenished Content Working Group Mint
-3. Had big delays in bounty 18
-4. Assigned BM for Bounty 10 and 16
+3. Had big delays in bounty 18. BM not answered many days
+4. Assigned BM for Bounty 10 and 16 (BM for Bounty 10 is not a curator worker)
 
 Curator Workers
 
@@ -79,3 +79,29 @@ Curator Workers
 3. Warn videos in forum [thread](https://testnet.joystream.org/#/forum/threads/329)
 4. Censored 8 videos
 5. Video licenses were not checked, which led to the closure of Bounty 10
+
+Content Curator WG usually just watch the uploaded videos. If the video does not play without thubnails or does not play, the curators leave a message on the forum and in the table. Bounty 10 checked by Ruslan#4019 (not curator worker). Bounty 18 - was a big delay.
+
+### Performance for the Lead
+
+???
+
+### Performance for the Workers
+
+- `leet_joy` < 30% (checked few videos, does not appear on Discord)
+
+- `meskalin` < 30% (checked few videos, does not appear on Discord)
+
+- `prontera` around 50%
+
+- `lyazufey1812` 100% (super active person)
+
+- `kiraa` 50% (was active, BM for Bounty 18. But now does not answer many days)
+
+- `mmsaww` 100% (active person, now BM for Bounty 16)
+
+### Suggestion for the path forward
+
+According to [WG Lead Term Limits](https://github.com/Joystream/community-repo/blob/master/rules/WG_Lead_Term_Limits.md) Lead's term soon ends. 
+
+There is a proposal to leave `Igrex` as content curator. He had a good time. But we need to make way for new candidates
