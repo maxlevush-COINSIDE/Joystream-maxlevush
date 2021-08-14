@@ -28,6 +28,14 @@ Only Content Working Group can `warn` or `censor` videos
 
 - If the video quality is "unreasonably" low
 
+### How to `warn` a video
+
+> `warning` Means to make a note that something has to be corrected within a certain time period
+
+- Post a warning to the author on the [forum](https://testnet.joystream.org/#/forum/threads/329).
+
+- Try to find the author in Discord or Telegram and notify him
+
 ## 2. `Censor` video
 
 ### When to `censor` a video
@@ -127,6 +135,12 @@ OPTIONS
 3.3 Missing Avatar
 
 - If the Avatar is missing, or just really poor, or have low quality
+
+### How to `warn` a video
+
+- Post a warning to the author on the [forum](https://testnet.joystream.org/#/forum/threads/329).
+
+- Try to find the author in Discord or Telegram and notify him
 
 ## 4. `Censor` channel
 
