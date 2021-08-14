@@ -28,7 +28,9 @@ Only Content Working Group can `warn` or `censor` videos
 
 ## 2. `Censor` video
 
-### Which video can be `censor`
+### When to `censor` a video
+
+**License**
 
 2.1 License requires attribution
 
@@ -45,3 +47,45 @@ Only Content Working Group can `warn` or `censor` videos
 2.4 Terms of Service violation
 
 - If the video is in violation of other parts of the [Terms of Service](https://play.joystream.org/legal/tos) and [Digital Millennium Copyright Act (DMCA)](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
+
+**Content Restrictions**
+
+2.5 Sexually explicit
+
+- Prostitution
+- Escort services
+- Other erotic services (including live sex shows, fetish fulfillment, etc.)
+- Pornographic content
+
+2.6 Harassment, bullying and abuse
+
+- content that seeks to threaten, intimidate, insult, shame or hurt an individual or group, regardless of their private or public status. Threats, doxxing, revenge porn, trolling, cyber-bullying, and other forms of abuse
+
+2.7 Contains hateful or discriminatory speech
+
+- Race, color, national origin, and ethnicity
+- Gender identity
+- Sexual orientation
+- Religion
+- Disability
+- Age
+
+2.8 Promotes or supports terror or hate groups
+
+- Content from hate or terror groups that aims to spread propaganda designed to radicalise and recruit people or aid and abet attacks
+
+2.9 Provides instructions on how to assemble explosive/incendiary devices or homemade/improvised firearms 
+
+2.10 Exploits or endangers minors
+
+2.11 Depicts or encourages self-harm or suicide
+
+2.12 Unlawful real-world acts of extreme violence
+
+- Vivid, realistic, or particularly graphic acts of violence and brutality
+- Sexualized violence, including rape, torture, abuse, and humiliation
+- Animal cruelty or extreme violence towards animals
+- Show people being murdered, tortured, or physically or sexually abused
+- Show animals being tortured or killed
+- Display shocking, disgusting, or gruesome images
+
