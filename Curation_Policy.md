@@ -6,6 +6,8 @@ The main task of the `Curator Workers` and `Curator Lead` is curating the conten
 
 Only Content Working Group can `warn` or `censor` videos
 
+> To effectively get information about videos in bulk, the [Hydra playground](https://hydra.joystream.org/graphql) will need to be used.
+
 ## 1. `Warn` video
 
 ### Which video can be `warned`
@@ -30,7 +32,7 @@ Only Content Working Group can `warn` or `censor` videos
 
 ### When to `censor` a video
 
-**License**
+> **License**
 
 2.1 License requires attribution
 
@@ -48,7 +50,7 @@ Only Content Working Group can `warn` or `censor` videos
 
 - If the video is in violation of other parts of the [Terms of Service](https://play.joystream.org/legal/tos) and [Digital Millennium Copyright Act (DMCA)](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)
 
-**Content Restrictions**
+> **Content Restrictions**
 
 2.5 Sexually explicit
 
@@ -89,6 +91,29 @@ Only Content Working Group can `warn` or `censor` videos
 - Show animals being tortured or killed
 - Display shocking, disgusting, or gruesome images
 
+### How to `censor` a video
+
+> `censor` Means updating the status (isCensored) for a video from `true` to `false`. It cannot be changed by anyone. Except for another curator in the active group.
+
+```
+
+# Censor video:
+  $ joystream-cli content:updateVideoCensorshipStatus --help
+
+Update Video censorship status (Censored / Not censored).
+
+USAGE
+  $ joystream-cli content:updateVideoCensorshipStatus ID [STATUS]
+
+ARGUMENTS
+  ID      ID of the Video
+  STATUS  New video censorship status (1 - censored, 0 - not censored)
+
+OPTIONS
+  --rationale=rationale  rationale
+  
+  ```
+
 ## 3. `Warn` channel
 
 ### Which channel can be `warned`
@@ -110,3 +135,24 @@ Only Content Working Group can `warn` or `censor` videos
 4.1 Multiple or recurring serious infractions
 
 - If multiple videos are currently `censored` and the owner has made no efforts to fix this
+
+### How to `censor` a channel
+
+```
+
+# Censor channel:
+$ joystream-cli content:updateChannelCensorshipStatus --help
+
+Update Channel censorship status (Censored / Not censored).
+
+USAGE
+  $ joystream-cli content:updateChannelCensorshipStatus ID [STATUS]
+
+ARGUMENTS
+  ID      ID of the Channel
+  STATUS  New censorship status of the channel (1 - censored, 0 - not censored)
+
+OPTIONS
+  --rationale=rationale
+  
+  ```
