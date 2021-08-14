@@ -89,3 +89,24 @@ Only Content Working Group can `warn` or `censor` videos
 - Show animals being tortured or killed
 - Display shocking, disgusting, or gruesome images
 
+## 3. `Warn` channel
+
+### Which channel can be `warned`
+
+3.1 Multiple warnings for videos
+
+3.2 Content not as "advertised"
+
+- If the title, description, category and Avatar imply a baking video, the video should not be a documentary about Bitcoin
+
+3.3 Missing Avatar
+
+- If the Avatar is missing, or just really poor, or have low quality
+
+## 4. `Censor` channel
+
+### When to `censor` a channel
+
+4.1 Multiple or recurring serious infractions
+
+- If multiple videos are currently `censored` and the owner has made no efforts to fix this
