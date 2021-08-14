@@ -6,7 +6,7 @@ The main task of the `Curator Workers` and `Curator Lead` is curating the conten
 
 Only Content Working Group can `warn` or `censor` videos
 
-> To effectively get information about videos in bulk, the [Hydra playground](https://hydra.joystream.org/graphql) will need to be used.
+> To effectively get information about videos in bulk, the [Hydra playground](https://hydra.joystream.org/graphql) will need to be used. Examples can be found [here](https://github.com/Joystream/helpdesk/tree/master/roles/content-curators/query-node-examples)
 
 ## 1. `Warn` video
 
@@ -156,3 +156,19 @@ OPTIONS
   --rationale=rationale
   
   ```
+  
+## Licenses
+
+```
+
+1000   Custom
+1001   PDM           Public Domain                                                   https://creativecommons.org/share-your-work/public-domain/pdm
+1002   CC0           Public Domain Dedication                                        https://creativecommons.org/share-your-work/public-domain/cc0
+1003   CC_BY         Creative Commons Attribution License                            https://creativecommons.org/licenses/by/4.0                  
+1004   CC_BY_SA      Creative Commons Attribution-ShareAlike License                 https://creativecommons.org/licenses/by-sa/4.0               
+1005   CC_BY_ND      Creative Commons Attribution-NoDerivs License                   https://creativecommons.org/licenses/by-nd/4.0               
+1006   CC_BY_NC      Creative Commons Attribution-NonCommercial License              https://creativecommons.org/licenses/by-nc/4.0               
+1007   CC_BY_NC_SA   Creative Commons Attribution-NonCommercial-ShareAlike License   https://creativecommons.org/licenses/by-nc-sa/4.0            
+1008   CC_BY_NC_ND   Creative Commons Attribution-NonCommercial-NoDerivs License     https://creativecommons.org/licenses/by-nc-nd/4.0            
+
+```
