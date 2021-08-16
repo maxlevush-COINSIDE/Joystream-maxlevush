@@ -1,5 +1,3 @@
-*`README.md` doesn't have to be like this. We need to add a good description to the community repository*
-
 # [17.8 - Clean up Community Repo - Part 1](https://blog.joystream.org/sumer-kpis/#17.8)
 
 Draft repository organized you can see [here](https://github.com/maxlevush/Clean_UP_Community-repo)
