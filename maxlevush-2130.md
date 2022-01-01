@@ -87,7 +87,6 @@ Thank you very much `@tomato`, `@freakstatic` and `@l1dev`
 
 - [Storage Provider](https://github.com/Joystream/community-repo/blob/master/working-groups/storage-group/report-12.md)
 - [Deputy Council Secretary](https://testnet.joystream.org/#/proposals/403)
-- 
 - [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council17_Report_18-08-2021.md)
 - [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council18_Report_25-08-2021.md)
 - [Create Clean up Community Repo - Part 1](https://github.com/maxlevush/Clean_UP_Community-repo)
@@ -97,74 +96,46 @@ Thank you very much `@tomato`, `@freakstatic` and `@l1dev`
   - [PR](https://github.com/Joystream/community-repo/pull/291)
   - [Proposal](https://testnet.joystream.org/#/proposals/421)
 - [Hire a new Lead](https://testnet.joystream.org/#/proposals/398)
-- 
 
 ## [#15: 30/08/21 - 13/09/21](https://github.com/Joystream/founding-members/blob/main/scoring-periods/15.md)
 
-- [Operations lead](https://github.com/Joystream/community-repo/tree/master/working-groups/operations-group#round-20)
-- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council19_Report_31-08-2021.md) - [KPI 18 Report](https://pioneer.joystreamstats.live/#/forum/threads/555?replyIdx=9)
-- work on [jsstats API](https://git.joystreamstats.live/Operations/jsstats/commits/api)
-- work on [joystream-lib](https://git.joystreamstats.live/Operations/joystream-lib/commits/master)
-- [10 endpoints for load-balancing](https://pioneer.joystreamstats.live/#/proposals/historical/193)
+- [Storage Provider](https://github.com/Joystream/community-repo/blob/master/working-groups/storage-group/report-14.md)
+- [Council Secretary](https://testnet.joystream.org/#/proposals/518)
+- [Deputy Council Secretary](https://testnet.joystream.org/#/proposals/474)
+- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council19_Report_31-08-2021.md)
+- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council20_Report_08-09-2021.md)
+- [Storage Lead opening (term limit)](https://testnet.joystream.org/#/proposals/531)
+- [Curator Lead opening (term limit)](https://testnet.joystream.org/#/proposals/529)
+- [Operations Lead opening (term limit)](https://testnet.joystream.org/#/proposals/528)
+- [Create Council Minutes](https://testnet.joystream.org/#/proposals/514)
 
 ## [#16: 13/09/21 - 27/09/21](https://github.com/Joystream/founding-members/blob/main/scoring-periods/16.md)
 
-- [Operations lead](https://github.com/Joystream/community-repo/tree/master/working-groups/operations-group#round-22)
-- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council21_Report_14-09-2021.md) - [KPI 21 Report](https://pioneer.joystreamstats.live/#/forum/threads/605?replyIdx=7)
-- work on [jsstats API](https://git.joystreamstats.live/Operations/jsstats/commits/api)
-- work on [joystream-lib](https://git.joystreamstats.live/Operations/joystream-lib/commits/master)
-- [10 endpoints for load-balancing](https://pioneer.joystreamstats.live/#/proposals/historical/193)
+- [Storage Provider](https://github.com/Joystream/community-repo/blob/master/working-groups/storage-group/report_16)
+- [Deputy Council Secretary](https://testnet.joystream.org/#/proposals/575)
+- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council21_Report_14-09-2021.md)
+- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council22_Report_21-09-2021.md)
 
 ## [#17: 27/09/21 - 11/10/21](https://github.com/Joystream/founding-members/blob/main/scoring-periods/17.md)
 
-- [Operations lead](https://github.com/Joystream/community-repo/tree/master/working-groups/operations-group#round-25)
-- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council24_Report_06_10_2021.md)
-- work on [jsstats API](https://git.joystreamstats.live/Operations/jsstats/commits/api)
-- work on [joystream-lib](https://git.joystreamstats.live/Operations/joystream-lib/commits/master)
-- [10 endpoints for load-balancing](https://pioneer.joystreamstats.live/#/proposals/historical/193)
+- [Storage Provider](https://github.com/Joystream/community-repo/blob/master/working-groups/storage-group/report_19)
 
 ## [#18: 11/10/21 - 25/10/21](https://github.com/Joystream/founding-members/blob/main/scoring-periods/18.md)
 
-- [Operations lead](https://github.com/Joystream/community-repo/tree/master/working-groups/operations-group#round-26)
-- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council25_Report_13_10_2021.md) - [KPI 25 Report](https://pioneer.joystreamstats.live/#/forum/threads/671?replyIdx=7)
-- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council26_Report_20_10_2021.md) - [KPI 26 Report](https://pioneer.joystreamstats.live/#/forum/threads/685?replyIdx=2)
-- *Oct 15th* [Refactor tokenomics report generator](https://github.com/Joystream/community-repo/pull/414)
-- *Oct 16th* [Update Tokenomics reports](https://github.com/Joystream/community-repo/pull/419)
-- *Oct 20th* [HELIOS setup instructions](https://github.com/Joystream/joystream/pull/2779)
-- *Oct 21th* [Refactor Council Report Generator](https://github.com/Joystream/community-repo/pull/428)
-- work on [joystream-lib](https://git.joystreamstats.live/Operations/joystream-lib/commits/master)
-- [10 endpoints for load-balancing](https://pioneer.joystreamstats.live/#/proposals/historical/193)
+- [Storage Provider](https://github.com/Joystream/community-repo/blob/master/working-groups/storage-group/report_21.md)
 
 ## [#19: 25/10/21 - 08/11/21](https://github.com/Joystream/founding-members/blob/main/scoring-periods/19.md)
 
-- [Operations lead](https://github.com/Joystream/community-repo/tree/master/working-groups/operations-group#round-28)
-- work on [joystream-lib](https://git.joystreamstats.live/Operations/joystream-lib/commits/master)
-- [10 endpoints for load-balancing](https://pioneer.joystreamstats.live/#/proposals/historical/193)
+- [Storage Provider](https://github.com/Joystream/community-repo/blob/master/working-groups/storage-group/report_22.md)
 
 ## [#20: 08/11/21 - 22/11/21](https://github.com/Joystream/founding-members/blob/main/scoring-periods/20.md)
 
-- [Operations lead](https://github.com/Joystream/community-repo/tree/master/working-groups/operations-group#round-30)
-- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council29_Report_09_11_2021.md) - [KPI 29 Report](https://pioneer.joystreamstats.live/#/forum/threads/740?replyIdx=8)
-- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council30_Report_16_11_2021.md) - [KPI 30 Report](https://pioneer.joystreamstats.live/#/forum/threads/757?replyIdx=9)
-- work on [joystream-lib](https://git.joystreamstats.live/Operations/joystream-lib/commits/master)
-- [10 endpoints for load-balancing](https://pioneer.joystreamstats.live/#/proposals/historical/193)
+- [Storage Provider](https://github.com/Joystream/community-repo/blob/master/working-groups/storage-group/report_24.md)
 
 ## [#21: 22/11/21 - 06/12/21](https://github.com/Joystream/founding-members/blob/main/scoring-periods/21.md)
 
-- [Operations lead](https://github.com/Joystream/community-repo/tree/master/working-groups/operations-group#round-33)
-- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council31_Report_23-11-2021.md) - [KPI 31 Report](https://pioneer.joystreamstats.live/#/forum/threads/771?replyIdx=5)
-- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council32_Report_01_12_2021.md) - [KPI 32 Report](https://pioneer.joystreamstats.live/#/forum/threads/783?replyIdx=5)
-- *Nov 23rd* [merge council minutes scripts](https://github.com/Joystream/community-repo/pull/485)
-- *Nov 24th* [Update council_member_discord_usernames.md](https://github.com/Joystream/community-repo/pull/488)
-- *Dec 2nd* [improve governance files](https://github.com/Joystream/community-repo/pull/505)
-- [10 endpoints for load-balancing](https://pioneer.joystreamstats.live/#/proposals/historical/193)
+- [Storage Provider](https://github.com/Joystream/community-repo/blob/master/working-groups/storage-group/report_25.md)
 
 ## [#22: 06/12/21 - 20/12/21](https://github.com/Joystream/founding-members/blob/main/scoring-periods/22.md)
 
-- [Operations lead](https://github.com/Joystream/community-repo/tree/master/working-groups/operations-group#round-34)
-- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council33_Report_08_12_2021.md) - [KPI 33 Report](https://pioneer.joystreamstats.live/#/forum/threads/796?page=2&replyIdx=12)
-- [KPI 34 Report](https://pioneer.joystreamstats.live/#/forum/threads/816?replyIdx=2)
-- [Council Member](https://github.com/Joystream/community-repo/blob/master/council/reports/sumer-reports/Sumer_Council35_Report_22-12-2021.md) - [KPI 35 Report](https://pioneer.joystreamstats.live/#/forum/threads/826?replyIdx=3)
-- [deployed test network](https://telemetry.joystream.org/#/KPI35.OP-3) for [upgrade tests](https://github.com/Joystream/community-repo/pull/537)
-- *Dec 6th* [Pioneer: Show active proposals per default](https://github.com/Joystream/joystream/pull/2896)
-- [10 endpoints for load-balancing](https://pioneer.joystreamstats.live/#/proposals/historical/193)
+- [Storage Provider](https://github.com/Joystream/community-repo/blob/master/working-groups/storage-group/report_28.md)
